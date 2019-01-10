@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'BMJUA';
+  src: url("BMJUA_otf.otf") format('truetype');
+}
+
+body {
+  background-color: #F0E8D9;
+}
+
+a {
+  text-decoration: None;
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'BMJUA';
+}
+
+
+
+#title {
+  font-size: 64px;
+  color: #58595B;
+  text-align: center;
+  margin-top: 75px;
+}
+
+#sub_title {
+  font-size: 32px;
+  color: #58595B;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 75px;
+}
+
+.box {
+  width: 300px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  text-align: center;
+  margin-bottom: 50px;
+
+
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+#content {
+  padding: 20px;
+}
+
+#head1 {
+  font-size: 32px;
+  color: #58595B;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+#paragraph {
+  font-size: 16px;
+  color: #58595B;
+  margin-bottom: 16px;
+  text-align: left;
+  margin-top: 0px;
+}
+

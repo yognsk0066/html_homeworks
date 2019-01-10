@@ -1,0 +1,15 @@
+#serif {
+    font-family: 'Slabo 27px', serif;
+}
+#sans-serif {
+    font-family: 'Roboto', sans-serif;
+}
+#monospace {
+    font-family: 'Source Code Pro', monospace;
+}
+#cursive {
+    font-family: 'Staatliches', cursive;
+}
+#fantasy {
+    font-family: 'Pacifico', fantasy;
+}
