@@ -1,0 +1,109 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.carousel-item {
+  height: 400px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.item1 {
+  background-image: url("15/guitar.jpg");
+  background-position: left center;
+  background-size: cover;
+}
+
+.item2 {
+  background-image: url("15/makeup.jpg");
+  background-position: center top;
+  background-size: cover;
+}
+
+.item3 {
+  background-image: url("15/cooking.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+.helper {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+
+}
+
+.intro {
+
+  color: white;
+  vertical-align: middle;
+  display: inline-block;
+
+}
+
+.intro h2 {
+  font-size: 32px;
+  margin-bottom: 18px;
+}
+
+.intro h3 {
+  font-size: 22px;
+  margin-bottom: 48px;
+}
+
+.intro a {
+  text-decoration: none;
+  color: white;
+  background-color: #5900e7;
+  font-size: 16px;
+  padding: 10px 30px;
+}
+
+.alert {
+  margin-bottom: 16px;
+}
+
+.container {
+  width: 90%
+}
+
+
+.product {
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:20px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.15);
+  display: block;
+  width: 100%;
+
+}
+
+.product img:first-child {
+  width: 100%;
+}
+
+.user {
+  width: 20px;
+  height: 20px;
+}
+
+.discription {
+  padding: 10px;
+}
+
+.discription h4 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #4A4A4A;
+}
+
+.discription img {
+  float: left;
+  margin-right: 10px;
+}
+
+.discription p {
+  padding-left: 10px;
+  font-size: 13px;
+  color: #4A4A4A;
+}

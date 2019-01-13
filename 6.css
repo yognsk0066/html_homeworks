@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.logo {
+    width: 165px;
+    height: 58px;
+    margin-top: 80px;
+}
+
+.menu {
+    font-size: 16px;
+    font-family: 'Helvetica';
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.photo {
+    width: 90%;
+
+}
+
+.now {
+    font-weight: bold;
+}
+
+#paris {
+    padding-right: 0px;
+}
+
+div a {
+    color: #58595B;
+    text-decoration: None;
+    padding-right: 20px;
+}
+
